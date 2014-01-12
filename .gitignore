@@ -19,3 +19,16 @@ DerivedData
 
 #CocoaPods
 Pods
+
+bin/
+obj/
+libs/
+assets/
+gen/
+out/
+.classpath
+.project
+.cproject
+*.jar
+*.class
+
